@@ -1,5 +1,15 @@
-<h1 align="center">Ankush Pahal</h1>
-<h3 align="center">Data Engineer • Full-Stack AI Developer</h3>
+<table>
+<tr>
+<td width="180" align="center">
+  <img src="assets/profile.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;"/>
+</td>
+<td>
+  <h1>Ankush Pahal</h1>
+  <h3>Data Engineer • Full-Stack AI Developer</h3>
+  <p>🎓 B.Tech – Computer Science Engineering (AI & ML), Lovely Professional University, Punjab — CGPA 6.65</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Data+Engineering;LLM+%26+Agentic+Systems;Full-Stack+Development;Real-time+Systems" />
@@ -12,7 +22,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 <p align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp"/></p>
@@ -36,47 +46,50 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws"/></p>
 
 **Tools**
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter"/>
+  <a href="https://antigravity.google/" target="_blank"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-**🔹 AI Investment Research Agent**
+**AI Investment Research Agent**
 `Next.js 14` `LangGraph.js` `Groq/Llama` `MongoDB Atlas` `SSE`
 Five sequential AI agents generating INVEST/PASS verdicts for US & Indian markets, with real-time streaming and 10-K RAG analysis via Gemini embeddings.
 
-**🔹 Real-Time Multiplayer Chess**
+**Real-Time Multiplayer Chess**
 `React` `Node.js` `Socket.IO` `MongoDB`
 In-design: auth, game-state recovery, reconnection handling, six-state game engine.
 
-**🔹 RAMP — Risk-Aware Memory-Assisted Prompt Compression**
+**RAMP — Risk-Aware Memory-Assisted Prompt Compression**
 `Research` `LLM Systems`
 Formal compression framework (MRS/SPS/RS metrics) — 75% pass rate, 1.25x compression, r=0.81 correlation.
 
-**🔹 Autonomous Talent Partner**
+**Autonomous Talent Partner**
 `FastAPI` `Neo4j` `ChromaDB` `Multi-Agent RAG`
 AI hiring platform with semantic candidate-job matching and bias-aware ranking.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushpahal-12&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankushpahal-12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushpahal-12&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushpahal-12&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankushpahal-12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
-### 📈 Activity Graph
+### Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushpahal-12&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ankushpahal-12/ankushpahal-12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -86,7 +99,7 @@ AI hiring platform with semantic candidate-job matching and bias-aware ranking.
 
 ---
 
-###  DSA
+### DSA
 <img src="https://img.shields.io/badge/LeetCode-160%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 ---
