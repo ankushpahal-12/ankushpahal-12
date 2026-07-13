@@ -139,10 +139,9 @@ AI hiring platform with semantic candidate-job matching and bias-aware ranking.
 <!-- WakaTime: requires the WakaTime browser/IDE extension + a pinned "Weekly development breakdown" gist. See setup note below. -->
 ### Weekly Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=ankushpahal-12&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-<sup align="center">↳ needs a WakaTime account linked to your GitHub username — setup note below</sup>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<sup align="center">↳ auto-updated daily by GitHub Action — setup below</sup>
 
 ### Activity Graph
 
