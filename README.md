@@ -27,6 +27,12 @@
 
 ---
 
+### About Me
+
+I'm a final-year CS undergrad focused on **data engineering** and **full-stack AI development** — building systems that go from raw data to production-ready intelligence. My recent work spans a multi-agent investment research platform (LangGraph.js + Groq), a real-time multiplayer chess engine, and RAMP, a research framework for LLM prompt compression with published-style benchmarks. I care about designing before coding — working through state machines, edge cases, and failure modes on paper before writing implementation — and I back my projects with real metrics rather than just working demos. Alongside project work, I've solved 160+ DSA problems on LeetCode and built out structured interview-prep systems as part of my own learning process.
+
+---
+
 ### Tech Stack
 
 **Languages**
