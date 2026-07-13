@@ -10,7 +10,13 @@ jobs:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Skip update when WakaTime API key is not configured
+        if: ${{ secrets.WAKATIME_API_KEY == '' }}
+        run: echo "WAKATIME_API_KEY is not configured; skipping WakaTime README update."
+
+      - name: Update README with WakaTime stats
+        if: ${{ secrets.WAKATIME_API_KEY != '' }}
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
