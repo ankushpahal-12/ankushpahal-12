@@ -12,13 +12,13 @@
 
 ---
 
-###  Tech Stack
+### 🧰 Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp"/></p>
 
 **AI / ML**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LangGraph.js-1C3C3C?style=flat-square"/>
   <img src="https://img.shields.io/badge/Groq/Llama-F55036?style=flat-square"/>
   <img src="https://img.shields.io/badge/Gemini%20Embeddings-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
@@ -27,20 +27,20 @@
 </p>
 
 **Backend & Real-time**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,socketio"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,socketio"/></p>
 
 **Data & Databases**
-<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,neo4j"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,neo4j"/></p>
 
 **Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,kubernetes,githubactions"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws"/></p>
 
 **Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter"/></p>
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
 **🔹 AI Investment Research Agent**
 `Next.js 14` `LangGraph.js` `Groq/Llama` `MongoDB Atlas` `SSE`
@@ -70,13 +70,13 @@ AI hiring platform with semantic candidate-job matching and bias-aware ranking.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushpahal-12&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-###  Activity Graph
+### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushpahal-12&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-### Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ankushpahal-12/ankushpahal-12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
