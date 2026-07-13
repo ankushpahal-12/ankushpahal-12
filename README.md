@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="180" align="center">
-  <img src="assets/profile.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;"/>
+  <img src="assets/me.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;"/>
 </td>
 <td>
   <h1>Ankush Pahal</h1>
