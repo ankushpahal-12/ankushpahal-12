@@ -142,11 +142,16 @@ AI hiring platform with semantic candidate-job matching and bias-aware ranking.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-Total Time: 0 secs
+Total Time: 12 hrs 22 mins
 
-No activity tracked
+TypeScript   5 hrs 18 mins         ██████████▓░░░░░░░░░░░░░░   42.94 %
+JavaScript   5 hrs 11 mins         ██████████▒░░░░░░░░░░░░░░   41.96 %
+Markdown     1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+JSON         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+HTML         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+CSS          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
