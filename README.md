@@ -35,46 +35,63 @@ I'm a final-year CS undergrad focused on **data engineering** and **full-stack A
 
 ### Tech Stack
 
-**Languages**
+<p align="center"><b>Languages</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp"/></p>
 
-**AI / ML**
+<p align="center"><b>AI / ML</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph.js-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Groq/Llama-F55036?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph.js-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq/Llama-F55036?style=flat-square&logo=groq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini%20Embeddings-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-blueviolet?style=flat-square"/>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
 </p>
 
-**Backend & Real-time**
+<p align="center"><b>Backend & Real-time</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,socketio"/></p>
 
-**Data & Databases**
+<p align="center"><b>Data & Databases</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,neo4j"/></p>
 
-**Cloud & DevOps**
+<p align="center"><b>Cloud & DevOps</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws"/></p>
 
-**Tools**
+<p align="center"><b>Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter"/>
   <a href="https://antigravity.google/" target="_blank"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
 </p>
 
-<!-- Skill proficiency bars: a lightweight, purely visual way to signal strongest areas at a glance -->
-**Core Strengths**
-<p align="center">
-  Python &nbsp;<img src="https://progress-bar.xyz/90?title=&width=140&color=3776AB"/><br/>
-  System Design &nbsp;<img src="https://progress-bar.xyz/85?title=&width=110&color=F97316"/><br/>
-  LLM/Agent Systems &nbsp;<img src="https://progress-bar.xyz/85?title=&width=90&color=6366F1"/><br/>
-  Data Engineering &nbsp;<img src="https://progress-bar.xyz/75?title=&width=100&color=10B981"/>
-</p>
+<!-- Core strengths: circular progress rings laid out horizontally, icon-style with label below each -->
+<p align="center"><b>Core Strengths</b></p>
+<table align="center">
+<tr>
+<td align="center" width="140">
+  <img src="assets/skill-python.svg" width="90" height="90"/><br/>
+  <sub>Python</sub>
+</td>
+<td align="center" width="140">
+  <img src="assets/skill-system-design.svg" width="90" height="90"/><br/>
+  <sub>System Design</sub>
+</td>
+<td align="center" width="140">
+  <img src="assets/skill-llm-agents.svg" width="90" height="90"/><br/>
+  <sub>LLM / Agents</sub>
+</td>
+<td align="center" width="140">
+  <img src="assets/skill-data-eng.svg" width="90" height="90"/><br/>
+  <sub>Data Engineering</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- How I work: short, scannable, gives recruiters a sense of process not just tech list -->
-### How I Work
+<p align="center"><b>How I Work</b></p>
 - **Spec before code** — I work through auth flows, state machines, and edge cases on paper before writing implementation.
 - **Iterate in the open** — bugs get logged and fixed in public commits, not squashed into a single "final" push.
 - **Measure, don't assume** — projects like RAMP ship with real benchmarks (pass rate, compression ratio, correlation), not just a working demo.
@@ -140,20 +157,6 @@ AI hiring platform with semantic candidate-job matching and bias-aware ranking.
 ### Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 06 July 2026 - To: 13 July 2026
-
-Total Time: 12 hrs 22 mins
-
-TypeScript   5 hrs 18 mins         ██████████▓░░░░░░░░░░░░░░   42.94 %
-JavaScript   5 hrs 11 mins         ██████████▒░░░░░░░░░░░░░░   41.96 %
-Markdown     1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-JSON         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-HTML         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-CSS          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-```
-
 <!--END_SECTION:waka-->
 <sup align="center">↳ auto-updated daily by GitHub Action — setup below</sup>
 
