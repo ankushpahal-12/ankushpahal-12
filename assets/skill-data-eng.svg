@@ -1,0 +1,7 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60.0" cy="60.0" r="55.0" fill="none" stroke="#2a2f3a" stroke-width="10"/>
+  <circle cx="60.0" cy="60.0" r="55.0" fill="none" stroke="#10B981" stroke-width="10"
+    stroke-dasharray="345.58" stroke-dashoffset="86.39"
+    stroke-linecap="round" transform="rotate(-90 60.0 60.0)"/>
+  <text x="60.0" y="66.0" text-anchor="middle" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#10B981">75%</text>
+</svg>
