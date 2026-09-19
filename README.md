@@ -6,7 +6,7 @@
 <td>
   <h1>Ankush Pahal</h1>
   <h3>Data Engineer • Full-Stack AI Developer</h3>
-  <p>🎓 B.Tech – Computer Science Engineering (AI & ML), Lovely Professional University, Punjab — CGPA 6.65</p>
+  <p>🎓 B.Tech – Computer Science Engineering (AI & ML), Lovely Professional University, Punjab — CGPA 6.86</p>
 </td>
 </tr>
 </table>
