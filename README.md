@@ -159,18 +159,18 @@ AI hiring platform with semantic candidate-job matching and bias-aware ranking.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2026 - To: 20 October 2026
+From: 14 October 2026 - To: 21 October 2026
 
-Total Time: 25 hrs 54 mins
+Total Time: 26 hrs 33 mins
 
-Java         21 hrs 58 mins        █████████████████████░░░░   83.62 %
-Markdown     2 hrs 41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Text         38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Other        21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-XML          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JSON         9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JavaScript   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Python       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java         22 hrs 42 mins        █████████████████████░░░░   84.34 %
+Markdown     2 hrs 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Text         36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+XML          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JSON         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
