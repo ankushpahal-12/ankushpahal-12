@@ -1,3 +1,4 @@
+
 name: Waka Readme
 
 on:
@@ -5,28 +6,22 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
 
-    env:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
     steps:
-      - uses: actions/checkout@v4
-
       - name: Update README
-        if: env.WAKATIME_API_KEY != ''
         uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 8
-
-      - name: Secret Missing
-        if: env.WAKATIME_API_KEY == ''
-        run: echo "WAKATIME_API_KEY secret is not configured."
+          COMMIT_MESSAGE: "Updated WakaTime statistics"
